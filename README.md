@@ -4,7 +4,7 @@
 
   Threewheelsburger is a fully responsive catering website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="[https://codewithsadee.github.io/Threewheelsburger/](https://adriaboguna.github.io/Threewheelsburger/)"><strong>➥ Live Demo</strong></a>
+  <a href="https://adriaboguna.github.io/Threewheelsburger/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
